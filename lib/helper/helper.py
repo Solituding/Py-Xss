@@ -1,6 +1,7 @@
 '''
 XSSCon - 2025
 This project was created by Solituding
+Author Referenced:menkrep1337 with 407Aex team
 Copyright under the MIT license
 '''
 import requests, json
