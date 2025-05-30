@@ -1,6 +1,7 @@
 '''
 XSSCon - 2025
 This project was created by Solituding
+Author Referenced:menkrep1337 with 407Aex team. 
 Copyright under the MIT license
 '''
 import argparse
@@ -62,6 +63,7 @@ def start():
 Project: XSSCon
 License: MIT
 Author: Solituding
+Author Referenced:menkrep1337 with 407Aex team. 
 Last updates: 2025 may 28
 Note: Take your own RISK
 ****************
